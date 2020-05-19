@@ -1,0 +1,2 @@
+rootProject.name='Dispatch Goods Container Tracker'
+include ':app'

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "638858586223",
+    "firebase_url": "https://dispatchgoods-beta.firebaseio.com",
+    "project_id": "dispatchgoods-beta",
+    "storage_bucket": "dispatchgoods-beta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638858586223:android:f41c3e72d4a6efae82c59a",
+        "android_client_info": {
+          "package_name": "com.dispatch_met.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638858586223-pdv1ko0gunmi24hqg7c77tfpa0tvi98f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHfvS-g3wyOF36WG46an4KSwVIsG_4HrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638858586223-pdv1ko0gunmi24hqg7c77tfpa0tvi98f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
